@@ -1,7 +1,7 @@
 {
   "worldName": "custom",
   "options": {
-    "imageURL": "https://raw.githubusercontent.com/Robotics-DesignerBGS/Virtual-Activities/main/Resources/SimpleCurves.png",
+    "imageURL": "https://raw.githubusercontent.com/Robotics-DesignerBGS/Virtual-Activities/main/Resources/Sharp.png",
     "groundType": "box",
     "length": 100,
     "width": 100,
@@ -25,8 +25,8 @@
     "startPosXYZStr": "",
     "startRotStr": "",
     "startPosXYZ": [
-      0,
-      -130,
+      22,
+      -129,
       0
     ],
     "startRot": null,
